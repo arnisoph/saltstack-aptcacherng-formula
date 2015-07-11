@@ -1,0 +1,10 @@
+os_family:
+  Debian:
+    pkgs:
+      - apt-cacher-ng
+    service: {}
+    config:
+      manage:
+        - acng_conf
+      acng_conf:
+        file_name: acng.conf

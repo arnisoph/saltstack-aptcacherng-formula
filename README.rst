@@ -71,6 +71,7 @@ Authors
 -------
 
 * Arnold Bechtoldt <mail@arnoldbechtoldt.com>
+* René Jochum <rene@jochums.at>
 
 
 Miscellaneous
